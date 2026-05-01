@@ -1,0 +1,16 @@
+Drop your photos here using the filenames listed in ../README.md
+
+Required files:
+  exterior-1.jpg     (also used as hero background)
+  exterior-2.jpg
+  living-1.jpg
+  living-2.jpg
+  living-3.jpg
+  living-4.jpg
+  bedroom-1.jpg
+  bedroom-2.jpg
+  bedroom-3.jpg
+  bedroom-4.jpg
+  bedroom-5.jpg
+  wardrobe-1.jpg
+  bathroom-1.jpg
